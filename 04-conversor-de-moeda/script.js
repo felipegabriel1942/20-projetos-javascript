@@ -20,7 +20,6 @@ function calculate() {
         });
 }
 
-
 // Event listeners
 currencyEl_one.addEventListener('change', calculate);
 amountEl_one.addEventListener('input', calculate);
